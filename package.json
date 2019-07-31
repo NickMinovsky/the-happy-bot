@@ -1,0 +1,19 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "a reddit bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bots"
+  ],
+  "author": "Nick Minovsky",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "snoostorm": "^1.0.2",
+    "snoowrap": "^1.18.0"
+  }
+}
